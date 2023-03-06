@@ -55,7 +55,7 @@ Messages are divided into many parts so in order to access those parts the follo
 
 Hypertext Transfer protocol is the protocol carrying the web since the dawn of the internet. At its inception, it was meant transfer documents around the science/research community's networks
 but nowadays we use it for much more.
-From what I know telnet is the unsecure predecesor to SSH.
+From what I know telnet is the unsecure predecessor to SSH.
 It was also used to access Bulletin Board Systems (BBS) which were like chatrooms of the dinosaur age from what I understand.
 But nowadays they use it to debug network services which is similar to what we're going to do in this exercise.
 

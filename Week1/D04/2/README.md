@@ -1,9 +1,9 @@
-#IMAP:
+# IMAP:
 
 Internet Message Access Protocol is a protocol designed to retrieve email from mail servers.
 It has some advantages over POP3 such as the ability to dynamically view messages as they arrive in real-time unlike the latter that only downloads messages and then cuts off the connection.
 
-##Connecting:
+## Connecting:
 
 To connect to the gmail imap server we issue the following command
 
@@ -51,7 +51,7 @@ Messages are divided into many parts so in order to access those parts the follo
 
 ```tag FETCH NUM (BODY[n])```
 
-#HTTP/Telnet:
+# HTTP/Telnet:
 
 Hypertext Transfer protocol is the protocol carrying the web since the dawn of the internet. At its inception, it was meant transfer documents around the science/research community's networks
 but nowadays we use it for much more.
